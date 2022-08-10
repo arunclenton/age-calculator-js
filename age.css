@@ -1,0 +1,80 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    background-color: #fff;
+    font-size: 30px;
+    color: rgb(7, 7, 126);
+    width: 500px;
+    height: 41px;
+    margin: auto;
+    text-align: center;
+    border: none;
+}
+form{
+    display: flex;
+    margin: 25px 0px 0px 28px;
+}
+.date1 h4{
+    font-size: 20px;
+    margin: 31px 0px 10px 24px;
+    color: #0000ff8a;
+}
+.month1 h4{
+    font-size: 20px;
+    margin: 31px 0px 10px 24px;
+    color: #0000ff8a;
+}
+.year1 h4{
+    font-size: 20px;
+    margin: 31px 0px 10px 24px;
+    color: #0000ff8a;
+}
+ input[type="text" i]{
+    width: 100px;
+    height: 25px;
+     border: 2px solid #0000ff8a; 
+    margin-left: 26px;
+    outline: none;
+}
+input[type="text" i]:hover{
+border-color: yellow;
+}
+.submit{
+    text-align: center;
+    margin-top: 40px;
+}
+input[type="button"]{
+    font-size: 20px;
+    width: 120px;
+    height: 30px;
+    background: blue;
+    border: blue;
+    color: #fff;
+    border-radius: 10px;
+}
+input[type="button"]:hover{
+    background: rgb(71, 12, 180);
+}
+#age{
+    display: block;
+    margin-top: 19px;
+    margin-left: 30px;
+    overflow: hidden;
+    font-size: 30px;
+    color: #ff2000;
+    word-spacing: 2px;
+}
+.body{
+    width: 500px;
+    height: 300px;
+    border: 1px solid #0ec1a5;
+    margin: auto;
+    margin-top: 15px;
+    background: #0ec1a5;
+    box-shadow: 10px 10px 10px #ffeb3b
+}
+
+
+
